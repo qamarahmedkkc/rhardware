@@ -1,0 +1,11 @@
+.big{
+    background-image: url('../store/images/signup.jpg');
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu-bar{
+    background-image: linear-gradient(-90deg, #d38312,#a83279);
+}
